@@ -1,5 +1,6 @@
 An implementation of EPGN in pytorch
 以WGAN为基础，使用了episode-based的训练方式。
+![image](https://github.com/CallMeNumber1/EPGN-pytorch/blob/master/EPGN.png)
 #### Intro
 - 仅展示了在awa1上的结果：
 - 运行的参数：epoch 30， episode 50，inner loop 100， bs 100
